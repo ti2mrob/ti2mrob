@@ -1,5 +1,4 @@
-  #Robin-00
-  <hr>
+  <h2 align="center"> #Robin-00 </h2>
 👋 Olá! eu sou o Bruno Samy! Bem-vindo ao meu perfil profissional na 2M Visual!👨‍💻
 
 - 💼 Perfil dedicado para criação de projetos em serviço a 2M Visual;
